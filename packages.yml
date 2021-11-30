@@ -1,0 +1,9 @@
+packages:
+  - package: dbt-labs/dbt_utils
+    version: 0.7.4
+  - package: dbt-labs/snowplow
+    version: 0.13.2
+  
+ 
+
+  
